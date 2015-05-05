@@ -1,0 +1,2 @@
+# scraper
+Open Holdem Tablemaps
